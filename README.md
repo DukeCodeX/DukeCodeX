@@ -8,14 +8,14 @@ Hey, I am Duke! 👋
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like loads of stuff i can't even decide!
 
-💻My Languages
+💻My Languages and my progress on them!
 
-HTML 
+- HTML (10/10)
 
-CSS 
+- CSS (9/10)
 
-JAVASCRIPT 
+- JAVASCRIPT (3/10)
 
-PYTHON
+- PYTHON (2/10)
 
 
