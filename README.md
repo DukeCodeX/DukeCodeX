@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @DukeCodeX
-- 👀 I’m interested in [HTML] [CSS] [Javascript]
-- 🌱 I’m currently learning [Javascript]
+Hey, I am Duke! 👋
 
+💫About Me :
+🔭 I’m currently working on the Glacier Client Website.
+🌱 I’m currently learning more about Javascript.
+👯 I’m looking to collaborate on Lucity.
+📫 How to reach me: Dicord - Duke#6377
+😄 Pronouns: He/His
+⚡ Fun fact: I like loads of stuff i can't even decide!
 
-<!---
-DukeCodeX/DukeCodeX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻My Languages
+HTML CSS JAVASCRIPT PYTHON
+
